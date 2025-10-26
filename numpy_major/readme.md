@@ -43,7 +43,7 @@ This project helps students and beginners explore how NumPy simplifies complex m
 |----------------|----------|
 | **Python 3.x** | Core programming language |
 | **NumPy** | Numerical computation and array manipulation |
-| **Google Colab** | Development and testing environment |
+| **VS Code** | Development and testing environment |
 
 ---
 
@@ -106,5 +106,6 @@ Spoorthi Ramu Biradar
  💻 Python & Data Science Enthusiast
 
 📫 Connect with me on LinkedIn
+
 
 https://www.linkedin.com/in/spoorthi-ramu
